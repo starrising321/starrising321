@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.off.loverz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="startunnelplus" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="230" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
