@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://www-static2.spulsecdn.net/pics/00/02/87/62/2876282_2_O.jpg" alt="prince.off.loverz" height="70" width="180" /></a>
+<a href="https://fb.com/prince.off.loverz" target="blank"><img align="center" src="https://www-static2.spulsecdn.net/pics/00/02/87/62/2876282_2_O.jpg" alt="prince.off.loverz" height="90" width="180" /></a>
 <a href="https://www.youtube.com/c/startunnelplus" target="blank"><img align="center" src="https://www.alfredocreates.com/wp-content/uploads/2017/02/Free-Outline-YouTube-Subscribe-Button-by-AlfredoCreates.png" alt="startunnelplus" height="70" width="190" /></a>
 <a href="https://play.google.com/store/apps/details?id=stp.startunnel.plus" target="blank"><img align="center" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="startunnelplus" height="100" width="230" /></a>
 </p>
